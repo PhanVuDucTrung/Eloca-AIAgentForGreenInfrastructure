@@ -16,8 +16,8 @@ Quá trình bứt tốc chuyển đổi giao thông xanh tại TP.HCM đang vấ
 
 ## Lợi thế công nghệ lõi (Agentic AI)
 ELoca không phải là một mô hình bản đồ tĩnh thông thường, mà là một AI Agent có định hướng mục tiêu với các đặc tính nổi bật:
-*   **Lớp kiểm chứng (Verification Layer):** Triệt tiêu hoàn toàn "ảo giác AI" bằng cách không quét bản đồ mù quáng, mà tự động đối chiếu không gian với các rào cản pháp lý thực tế (ví dụ: danh sách 337 vị trí vỉa hè đã được Sở Xây dựng cấp phép) để đảm bảo tính khả thi 100% [8].
-*   **Vòng lặp học hỏi (Feedback Loop):** Hệ thống liên tục thu nhận dữ liệu hành vi thực tế (lượt sạc, tần suất thuê xe) để AI Agent tự nhận diện sai số, tinh chỉnh lại trọng số thuật toán quy hoạch cho tương lai [9].
+*   **Lớp kiểm chứng (Verification Layer):** Triệt tiêu hoàn toàn "ảo giác AI" bằng cách không quét bản đồ mù quáng, mà tự động đối chiếu không gian với các rào cản pháp lý thực tế (ví dụ: danh sách 337 vị trí vỉa hè đã được Sở Xây dựng cấp phép) để đảm bảo tính khả thi 100% 
+*   **Vòng lặp học hỏi (Feedback Loop):** Hệ thống liên tục thu nhận dữ liệu hành vi thực tế (lượt sạc, tần suất thuê xe) để AI Agent tự nhận diện sai số, tinh chỉnh lại trọng số thuật toán quy hoạch cho tương lai 
 
 ## 📂 Repository này có gì?
 Đây là không gian lưu trữ các tài liệu cốt lõi của dự án trong khuôn khổ vòng thi:
