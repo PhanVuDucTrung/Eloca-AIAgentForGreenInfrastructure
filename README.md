@@ -21,8 +21,8 @@ ELoca không phải là một mô hình bản đồ tĩnh thông thường, mà 
 
 ## 📂 Repository này có gì?
 Đây là không gian lưu trữ các tài liệu cốt lõi của dự án trong khuôn khổ vòng thi:
-*    `Final_ELoca_Proposal.pdf`: Bản đề án chi tiết trình bày về vấn đề, giải pháp Agentic AI, kiến trúc hệ thống và kế hoạch phát triển.
-*    `ELoca_Pitch_Deck.pdf`: Slide thuyết trình (Pitching) tóm tắt dự án của nhóm.
+*    `Final_Proposal.pdf`: Bản đề án chi tiết trình bày về vấn đề, giải pháp Agentic AI, kiến trúc hệ thống và kế hoạch phát triển.
+*    `ELoca_Pitch_Slide.pdf`: Slide thuyết trình (Pitching) tóm tắt dự án của nhóm.
 
 ## 👨‍💻 Đội ngũ Mixi Coders
 Dự án được lên ý tưởng và hoàn thiện bởi các thành viên:
