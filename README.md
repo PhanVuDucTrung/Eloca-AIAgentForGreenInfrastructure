@@ -12,7 +12,7 @@ Dù không có cơ hội đi tiếp và triển khai dự án thành một bản
 ## Về dự án ELoca
 Quá trình bứt tốc chuyển đổi giao thông xanh tại TP.HCM đang vấp phải rào cản lớn về quy hoạch hạ tầng vật lý [4]. ELoca ra đời như một hệ thống Agentic AI tự chủ, giúp giải quyết hai bối cảnh đặc thù:
 *   **Nỗi đau của doanh nghiệp (B2B):** Các hãng xe điện (VinFast, DatBike,...) gặp rủi ro lãng phí hàng tỷ đồng chi phí đầu tư vốn (CAPEX) và triệt tiêu doanh thu khi phải phân bổ 20.000 tủ đổi pin trên vỉa hè dựa vào khảo sát thủ công, cảm tính
-*   **Lỗ hổng "dặm cuối" của xã hội:** Tuyến Metro số 1 phục vụ gần 70.000 lượt khách/ngày nhưng thiếu hụt trạm xe đạp công cộng (như TNGO), gây đứt gãy trải nghiệm di chuyển của người dân và lãng phí thời gian chờ đợi của tài xế công nghệ
+*   **Vấn đề di chuyển chặng cuối của xã hội:** Tuyến Metro số 1 phục vụ gần 70.000 lượt khách/ngày nhưng thiếu hụt trạm xe đạp công cộng (như TNGO), gây đứt gãy trải nghiệm di chuyển của người dân và lãng phí thời gian chờ đợi của tài xế công nghệ
 
 ## Lợi thế công nghệ lõi (Agentic AI)
 ELoca không phải là một mô hình bản đồ tĩnh thông thường, mà là một AI Agent có định hướng mục tiêu với các đặc tính nổi bật:
