@@ -5,7 +5,7 @@
 ## 🏆 Một hành trình đáng nhớ tại GDGoC Hackathon Vietnam 2026
 Repository này không chứa mã nguồn của một dự án, mà chỉ chưa proposal về dự án, là nơi lưu giữ kỷ niệm và thành quả tư duy của team **Mixi Coders** tại cuộc thi GDGoC Hackathon Vietnam 2026 (Chủ đề: "Agentic AI: Agents of Change")
 
-Dù không có cơ hội đi tiếp và triển khai dự án thành một bản demo hoàn chỉnh, nhưng quá trình xây dựng ELoca là một chặng đường đáng nhớ. Chúng tôi đã cùng nhau giải quyết một bài toán thực tế cực kỳ hóc búa của TP.HCM, học cách tư duy như những founder thực thụ – từ việc xây dựng kiến trúc AI tự chủ đến thiết kế mô hình kinh doanh B2B. Repository này được tạo ra để public bản Proposal và Slide Pitching, như một minh chứng cho sự nỗ lực, tinh thần học hỏi và đam mê công nghệ của cả nhóm trong suốt cuộc thi.
+Dù không có cơ hội đi tiếp và triển khai dự án thành một bản demo hoàn chỉnh, nhưng quá trình xây dựng ELoca là một chặng đường đáng nhớ. Chúng tôi đã cùng nhau giải quyết một bài toán thực tế cực kỳ hóc búa của TP.HCM, học cách tư duy như những founder thực thụ - từ việc xây dựng kiến trúc AI tự chủ đến thiết kế mô hình kinh doanh B2B. Repository này được tạo ra để public bản Proposal và Slide Pitching, như một minh chứng cho sự nỗ lực, tinh thần học hỏi và đam mê công nghệ của cả nhóm trong suốt cuộc thi.
 
 ---
 
